@@ -38,4 +38,23 @@ Untuk info selengkapnya: [Klik disini](https://www.google.com)
 
 <b>ini bold</b> 
 
-<img alt="logopssi" src="https://www.logodatabases.com/files/wp-content/uploads/2012/05/pssi-logo-500x539.jpg">
+<marquee>
+<img alt="logopssi" src="https://www.logodatabases.com/files/wp-content/uploads/2012/05/pssi-logo-500x539.jpg" style= "width:20%">
+</marquee>
+
+Untuk mencetak dengan ini
+```
+tes bro
+```
+
+Untuk mencetak sesuatu di python gunakan perintah `print()` 
+
+```python
+print(x)
+```
+
+No.|Nama|Usia 
+-|-|-
+1.|Andi|21
+2.|Budi|25
+3.|Caca|23
